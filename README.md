@@ -72,9 +72,8 @@ I used for creation and runing:
 ## Notes to Reviewer
 - Access Server from SSH with:
     * ssh grader@ec2-3-84-8-127.compute-1.amazonaws.com -p 22  -i ~/.ssh/LinuxCourse
-    * use the public key
-    ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCqdEztau2IdO+hSJ2mDT+Ktkeafl/POOSQ6dbaIdZIGonQILelvyShcpyC7q/gDJ6EpcxVyQu1UJkde92NlITOkG9qhLjsESPRHiSZ5jc9b0mARWP2nD78ZZ2cOjY9cS2spyH4iEV6NGLpbAr4lpEa3kdrrcMYVPeVY1QPNv88ZxnE00EjjPlpHNIR751M2dcjubdWBBs6NY42yj0lp/tVxVe6mkFKERFgBX6ee4iBUc4bf8cAPzkP49AO2Ag2c/kP1UpZsl3b6H2FZcRG44A4lkZ/8kUH/5sLUX1IM3DW+MxNfvdQpCYbpzSYzsVVv2p7Zu2ny22lqDXvioXgYKE/ yohanatunarrosa@MacBook-Pro-de-Yohana.local
-- Access Item Catalog Project from Browser with URL http://3.84.8.127.
+    * Use the public key
+  - Access Item Catalog Project from Browser with URL http://3.84.8.127.
 
 
 ## References 
