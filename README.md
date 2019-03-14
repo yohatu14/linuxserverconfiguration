@@ -72,7 +72,7 @@ I used for creation and runing:
 ## Notes to Reviewer
 - Access Server from SSH with:
     * ssh grader@ec2-3-84-8-127.compute-1.amazonaws.com -p 22  -i ~/.ssh/LinuxCourse
-    * Use the public key
+    * Use the public key and password: linux
   - Access Item Catalog Project from Browser with URL http://3.84.8.127.
 
 
